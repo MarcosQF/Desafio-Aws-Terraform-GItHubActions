@@ -1,1 +1,1 @@
-# MarcosQF-Desafio-Aws-Terraform-GItHubActions
+# Desafio-Aws-Terraform-GItHubActions
